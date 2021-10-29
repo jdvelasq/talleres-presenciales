@@ -1,2 +1,2 @@
-# talleres-presenciales
-Talleres presenciales en clase
+# Talleres presenciales
+Este repositorio contiene los talleres presenciales realizados durante las clases.
